@@ -29,3 +29,5 @@
 [Yolov13下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov13.pt) 、
 [Yolov26下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov26.pt) 、
 [TSMYn下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/TSMY.pt) 
+
+百度网盘权重下载链接：TSMY权重文件链接:  [https://pan.baidu.com/s/1X4SRCBQrM0REP_NPAS35_g?pwd=j59p](https://pan.baidu.com/s/1X4SRCBQrM0REP_NPAS35_g?pwd=j59p) 提取码: j59p 
