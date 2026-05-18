@@ -18,14 +18,14 @@
  *   **TSMYx**: [下载](https://github.com/Crazy-Create/TSMY/releases/download/%E8%87%AA%E5%88%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/TSMY.x.pt) 
 
 公开数据集CoCo2017上对比实验权重
-TSMYn
+[TSMYn下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/TSMY.COCO2017.pt) 
 
 公开数据集VisDrone2019上对比实验权重
-Yolov5
-Yolov8
-Yolov10
-Yolov11
-Yolov12
-Yolov13
-Yolov26
-TSMYn
+[Yolov5下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov5.pt) 、
+[Yolov8下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov8.pt)、 
+[Yolov10下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov10.pt) 、
+[Yolov11下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov11.pt) 、
+[Yolov12下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov12.pt) 、
+[Yolov13下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov13.pt) 、
+[Yolov26下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov26.pt) 、
+[TSMYn下载](https://github.com/Crazy-Create/TSMY/releases/download/VisDrone%E4%BB%A5%E5%8F%8ACOCO2017%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/TSMY.pt) 
