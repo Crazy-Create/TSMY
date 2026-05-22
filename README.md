@@ -2,7 +2,7 @@
 在训练的时候请安装以下几个包pip install ultralytics matplotlib tqdm torchsummary pandas  seaborn huggingface_hub 
 torch环境请大于版本2.4.0 
 待论文收录后详细描述readme文件
-自制铁路数据集上对比实验权重
+*   自制铁路数据集上对比实验权重：
 *   **YOLOv5**: [下载](https://github.com/Crazy-Create/TSMY/releases/download/%E8%87%AA%E5%88%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov5.pt)       
 *   **YOLOv8**: [下载](https://github.com/Crazy-Create/TSMY/releases/download/%E8%87%AA%E5%88%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov8.pt) 
 *   **YOLOv10**: [下载](https://github.com/Crazy-Create/TSMY/releases/download/%E8%87%AA%E5%88%B6%E6%95%B0%E6%8D%AE%E9%9B%86%E6%9D%83%E9%87%8D%E6%96%87%E4%BB%B6/yolov10.pt) 
