@@ -1,7 +1,7 @@
 # TSMY
 Before training, please install the following packages:
 
-```bash
+
 pip install ultralytics matplotlib tqdm torchsummary pandas seaborn huggingface_hub
 
 A comprehensive README with detailed instructions will be released upon paper acceptance.
